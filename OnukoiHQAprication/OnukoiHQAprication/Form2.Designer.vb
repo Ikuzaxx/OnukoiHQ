@@ -33,11 +33,11 @@ Partial Class Form2
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("MS UI Gothic", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Red
-        Me.Label1.Location = New System.Drawing.Point(45, 9)
+        Me.Label1.Location = New System.Drawing.Point(52, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(182, 27)
+        Me.Label1.Size = New System.Drawing.Size(177, 27)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "管理者用モード"
+        Me.Label1.Text = "ID:生徒副会長"
         '
         'Button1
         '
@@ -56,7 +56,7 @@ Partial Class Form2
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(257, 58)
         Me.Button2.TabIndex = 2
-        Me.Button2.Text = "レジストリエディタ"
+        Me.Button2.Text = "メッセージ確認"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
